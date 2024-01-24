@@ -1,7 +1,6 @@
 # Code for 'data.py' file
 # Import necessary modules
-import numpy as np
-import pandas as pd
+import numpy as n
 import streamlit as st
 
 # Define a function 'app()' which accepts 'car_df' as an input.
